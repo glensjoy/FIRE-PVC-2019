@@ -1,0 +1,4 @@
+#Fri Mar 08 15:06:45 EST 2019
+base.0=/Users/glenjoy/Desktop/FIRE/FIRE170/Deliverable2-5/2-5Deliverable/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

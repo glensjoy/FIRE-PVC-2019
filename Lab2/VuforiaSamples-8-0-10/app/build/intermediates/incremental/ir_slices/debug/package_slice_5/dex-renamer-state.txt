@@ -1,0 +1,4 @@
+#Fri Mar 08 18:26:38 EST 2019
+base.0=/Users/glenjoy/Library/Android/vuforia-sdk-android-8-0-10/samples/VuforiaSamples-8-0-10/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
